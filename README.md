@@ -17,6 +17,9 @@ I'm a passionate Full Stack Engineer. You can see my works at https://itsumarswe
 - Data Science: Pandas, Flask, NumPy, Matplotlib, Stastsmodels.
 - AWS Services: Amplify, EC2, Lambda, S3, Cognito, SES, Dynamo DB, AppSync, API Gateway
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfchy&layout=compact)
+
+
 <!--
 **umarfchy/umarfchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
