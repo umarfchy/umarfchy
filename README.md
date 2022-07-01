@@ -5,6 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
+
+## 🚀 About Me
+I'm a passionate Full Stack Engineer. You can see my works at https://itsumarswebsite.web.app/. I like making great web experience! I enjoy learning new (human 😉) languages and spend free time with my family. 
+
+
+## Expertise: 
+- Languages:  JavaScript (ES6), Python, TypeScript, HTML, CSS, SQL, R, Bash
+- Frontend: NextJS, ReactJS, ExpressJS, Redux, Bootstrap, Material Ui
+- Backend: NodeJS, GraphQL, MongoDB, Firebase, Heroku, Netlify, Docker, Git 
+- Data Science: Pandas, Flask, NumPy, Matplotlib, Stastsmodels.
+- AWS Services: Amplify, EC2, Lambda, S3, Cognito, SES, Dynamo DB, AppSync, API Gateway
+
 <!--
 **umarfchy/umarfchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
