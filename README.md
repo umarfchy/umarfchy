@@ -7,7 +7,10 @@
 
 
 ## 🚀 About Me
-I'm a passionate Full Stack Engineer. You can see my works at https://itsumarswebsite.web.app/. I like making great web experience! I enjoy learning new (human 😉) languages and spend free time with my family. 
+
+Umar is a professional software engineer with decent experience in developing modern, cutting-edge web applications. Despite being a tech person, he also has a genuine interest in the business side of things. He graduated from the University of Dhaka. He published six research papers in international journals and got a government fellowship for his master's thesis project. He likes to learn new (human 😉) languages and spend time with friends and family.
+
+See his works @ https://itsumarswebsite.web.app/
 
 
 ## Expertise: 
