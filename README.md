@@ -23,7 +23,7 @@ See his works @ https://itsumarswebsite.web.app/
 - GCP Services: Firebase, Cloud Function, Cloud Storage, Cloud Firestore, Compute Engine, VPC, Firewall etc. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfchy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfchy&layout=compact)
 
 
 <!--
