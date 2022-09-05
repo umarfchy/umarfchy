@@ -14,13 +14,16 @@ See his works @ https://itsumarswebsite.web.app/
 
 
 ## Expertise: 
-- Languages:  JavaScript (ES6), Python, TypeScript, HTML, CSS, SQL, R, Bash
-- Frontend: NextJS, ReactJS, ExpressJS, Redux, Bootstrap, Material Ui
-- Backend: NodeJS, GraphQL, MongoDB, Firebase, Heroku, Netlify, Docker, Git 
-- Data Science: Pandas, Flask, NumPy, Matplotlib, Stastsmodels.
-- AWS Services: Amplify, EC2, Lambda, S3, Cognito, SES, Dynamo DB, AppSync, API Gateway
+- Languages:  JavaScript (ES6), Python, TypeScript, Go, HTML, CSS, SQL, R, Bash 
+- Frontend: NextJS, ReactJS, Redux, Bootstrap, Material Ui, Tailwind CSS, React Query
+- Backend: NodeJS, Prisma ORM, ExpressJS, Jest, Flask, Fiber, REST api, GraphQL, Mysql, MongoDB
+- Other Technologies: Heroku, Netlify, Docker, Docker Compose, Git, Nginx 
+- Data Science: Pandas, Flask, NumPy, Matplotlib, Stastsmodels
+- AWS Services: Amplify, EC2, Lambda, S3, IAM, Cognito, SES, Dynamo DB, AppSync, API Gateway etc. 
+- GCP Services: Firebase, Cloud Function, Cloud Storage, Cloud Firestore, Compute Engine, VPC, Firewall etc. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfchy&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfchy&layout=cozy)
 
 
 <!--
