@@ -8,10 +8,11 @@
 
 ## 🚀 About Me
 
-Umar is a professional software engineer with decent experience in developing modern, cutting-edge web applications. Despite being a tech person, he also has a genuine interest in the business side of things. He graduated from the University of Dhaka. He published six research papers in international journals and got a government fellowship for his master's thesis project. He likes to learn new (human 😉) languages and spend time with friends and family.
+Enjoy developing modern, cutting-edge web applications and scalable systems. Explore new technologies with ardent desire to become an above average engineer. Have genuine passion in the business side of things. Help engineers get things done. Work with NextJs, NodeJs, Docker, Kubernetes, Terraform, AWS, and GCP.
 
-See his works @ https://itsumarswebsite.web.app/
-
+See works @ https://github.com/umarfchy 
+Contact @ umarfchy@gmail.com 
+Website: https://umarchowdhury.com
 
 ## Expertise: 
 - Languages:  JavaScript (ES6), Python, TypeScript, Go, HTML, CSS, SQL, R, Bash 
