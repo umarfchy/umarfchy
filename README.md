@@ -24,11 +24,21 @@ Website: https://umarchowdhury.com
 - GCP Services: Firebase, Cloud Function, Cloud Storage, Cloud Firestore, Compute Engine, VPC, Firewall etc. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfchy&layout=compact)
+🔥 Statistics
+
+<p align="center">
+<a href="https://github.com/umarfchy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=umarfchy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umarfchy&layout=compact&langs_count=8&theme=gotham"/>
+</a>
+</p>
 
 
 <!--
 **umarfchy/umarfchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfchy&layout=compact)
+
 
 Here are some ideas to get you started:
 
