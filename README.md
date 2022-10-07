@@ -14,17 +14,25 @@ See works @ https://github.com/umarfchy
 Contact @ umarfchy@gmail.com 
 Website: https://umarchowdhury.com
 
-## Expertise: 
-- Languages:  JavaScript (ES6), Python, TypeScript, Go, HTML, CSS, SQL, R, Bash 
-- Frontend: NextJS, ReactJS, Redux, Bootstrap, Material Ui, Tailwind CSS, React Query
-- Backend: NodeJS, Prisma ORM, ExpressJS, Jest, Flask, Fiber, REST api, GraphQL, Mysql, MongoDB
-- Other Technologies: Heroku, Netlify, Docker, Docker Compose, Git, Nginx 
-- Data Science: Pandas, Flask, NumPy, Matplotlib, Stastsmodels
-- AWS Services: Amplify, EC2, Lambda, S3, IAM, Cognito, SES, Dynamo DB, AppSync, API Gateway etc. 
-- GCP Services: Firebase, Cloud Function, Cloud Storage, Cloud Firestore, Compute Engine, VPC, Firewall etc. 
+## Skills 🛠️ and Expertise 💪 
 
+🌐 Languages - JavaScript (ES6), Python, TypeScript, Go, HTML, CSS, SQL, R, Bash.
 
-🔥 Statistics
+🍥 Frontend -  NextJS, ReactJS, Redux, Bootstrap, Material Ui, Tailwind CSS, React Query, etc.
+
+🚀 Backend -  NodeJS, Prisma ORM, ExpressJS, Jest, Flask, Fiber, REST API, GraphQL, Mysql, PostgreSQL, MongoDB, etc.
+
+⚡ DevOps: Nginx, Redis, Kafka, Docker, Kubernetes, Terraform, Git
+
+☁️ Cloud Services -
+
+🔥 AWS Services -  Amplify, EC2, Lambda, S3, IAM, Cognito, SES, Dynamo DB, AppSync, API Gateway etc.
+
+🌟 GCP Services - Firebase, Cloud Function, Cloud Storage, Cloud Firestore, Compute Engine, VPC, Firewall etc.
+
+<br/>
+
+📊 Statistics
 
 <p align="center">
 <a href="https://github.com/umarfchy">
