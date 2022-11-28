@@ -16,7 +16,7 @@ Website: https://umarchowdhury.com
 
 ## Skills 🛠️ and Expertise 💪 
 
-🌐 Languages - JavaScript (ES6), Python, TypeScript, Go, HTML, CSS, SQL, R, Bash.
+🌐 Languages - JavaScript, Python, TypeScript, Go, HTML, CSS, SQL, R, Bash.
 
 🍥 Frontend -  NextJS, ReactJS, Redux, Bootstrap, Material Ui, Tailwind CSS, React Query, etc.
 
