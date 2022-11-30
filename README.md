@@ -11,8 +11,15 @@
 Enjoy developing modern, cutting-edge web applications and scalable systems. Explore new technologies with ardent desire to become an above average engineer. Have genuine passion in the business side of things. Help engineers to get things done. Work with NextJs, NodeJs, Docker, Kubernetes, Terraform, AWS, and GCP.
 
 See works @ https://github.com/umarfchy 
+<br/>
 Contact @ umarfchy@gmail.com 
+<br/>
 Website: https://umarchowdhury.com
+<br/>
+Let's connect at 
+LinkedIn - https://www.linkedin.com/in/umarfchy/
+Twitter - https://twitter.com/umarfchy
+<br/>
 
 ## Skills 🛠️ and Expertise 💪 
 
