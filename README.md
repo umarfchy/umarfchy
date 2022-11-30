@@ -16,8 +16,9 @@ Contact @ umarfchy@gmail.com
 <br/>
 Website: https://umarchowdhury.com
 <br/>
-Let's connect at 
+Let's connect on 
 LinkedIn - https://www.linkedin.com/in/umarfchy/
+<br/>
 Twitter - https://twitter.com/umarfchy
 <br/>
 
