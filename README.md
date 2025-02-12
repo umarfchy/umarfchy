@@ -30,7 +30,7 @@ Twitter - https://twitter.com/umarfchy
 
 🚀 Backend -  NodeJS, Prisma ORM, ExpressJS, Jest, Flask, Fiber, REST API, GraphQL, Mysql, PostgreSQL, MongoDB, etc.
 
-⚡ DevOps: Nginx, Redis, Kafka, Docker, Kubernetes, Terraform, Git etc.
+⚡ DevOps: Nginx, Redis, Ansible, Kafka, Docker, Kubernetes, Terraform, Git etc.
 
 ☁️ Cloud Services -
 
